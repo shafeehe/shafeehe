@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shafeehe
-- 👀 I’m interested in AI/ML projects, Software Development, Python, and embedded C
-- 🌱 I’m currently learning AI and ML, Python and Embedded C
+- 👀 I’m interested in Cloud Computing, AI, DevOps and Python
 - 💞️ I’m looking to collaborate on projects related to those mentioned above.
 - 📫 How to reach me ...shafeehpms@gmail.com
 - 😄 Pronouns: ...
