@@ -5,7 +5,7 @@
 - ✅ AWS • OCI • GCP • Python • Linux •PowerShell • Automation • AI workflows
 - 📫 Reach me: shafeehpms@gmail.com
 
--  " Your next breakthrough will come while fixing something small, not building something big! "
+-  " The next breakthrough will come while fixing something small, not building something big! "
 
 <!---
 
