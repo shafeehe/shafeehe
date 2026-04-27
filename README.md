@@ -4,7 +4,7 @@
 - </> I’m looking forward to collaborate on projects related to those mentioned above.
 - 📫 Reach me: shafeehpms@gmail.com
 
-- ⚡ Fun fact: Your next breakthrough will come while fixing something small, not building something big!
+-  " Your next breakthrough will come while fixing something small, not building something big! "
 
 <!---
 
