@@ -6,6 +6,5 @@
 - ⚡ Fun fact: Your next breakthrough will come while fixing something small, not building something big!
 
 <!---
-shafeehe/shafeehe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Cloud & DevOps Engineer | OCI Certified Associate | Building and Automating Cloud Infrastructure
 --->
